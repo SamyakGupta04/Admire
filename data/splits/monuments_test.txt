@@ -1,0 +1,1148 @@
+data/monuments/test/Ajanta Caves/1.jpg
+data/monuments/test/Ajanta Caves/10.jpg
+data/monuments/test/Ajanta Caves/11.jpg
+data/monuments/test/Ajanta Caves/12.jpg
+data/monuments/test/Ajanta Caves/13.jpg
+data/monuments/test/Ajanta Caves/14.jpg
+data/monuments/test/Ajanta Caves/15.jpg
+data/monuments/test/Ajanta Caves/16.jpg
+data/monuments/test/Ajanta Caves/17.jpg
+data/monuments/test/Ajanta Caves/18.jpg
+data/monuments/test/Ajanta Caves/19.jpg
+data/monuments/test/Ajanta Caves/2.jpg
+data/monuments/test/Ajanta Caves/20.jpg
+data/monuments/test/Ajanta Caves/21.jpg
+data/monuments/test/Ajanta Caves/22.jpg
+data/monuments/test/Ajanta Caves/23.jpg
+data/monuments/test/Ajanta Caves/24.jpg
+data/monuments/test/Ajanta Caves/25.jpg
+data/monuments/test/Ajanta Caves/26.jpg
+data/monuments/test/Ajanta Caves/27.jpg
+data/monuments/test/Ajanta Caves/28.jpg
+data/monuments/test/Ajanta Caves/29.jpg
+data/monuments/test/Ajanta Caves/3.jpg
+data/monuments/test/Ajanta Caves/30.jpg
+data/monuments/test/Ajanta Caves/31.jpg
+data/monuments/test/Ajanta Caves/4.jpg
+data/monuments/test/Ajanta Caves/5.jpg
+data/monuments/test/Ajanta Caves/6.jpg
+data/monuments/test/Ajanta Caves/7.jpg
+data/monuments/test/Ajanta Caves/8.jpg
+data/monuments/test/Ajanta Caves/9.jpg
+data/monuments/test/Charar-E- Sharif/51.jpg
+data/monuments/test/Charar-E- Sharif/52.jpg
+data/monuments/test/Charar-E- Sharif/53.jpg
+data/monuments/test/Charar-E- Sharif/54.jpg
+data/monuments/test/Charar-E- Sharif/55.jpg
+data/monuments/test/Charar-E- Sharif/56.jpg
+data/monuments/test/Charar-E- Sharif/57.jpg
+data/monuments/test/Charar-E- Sharif/58.jpg
+data/monuments/test/Charar-E- Sharif/59.jpg
+data/monuments/test/Charar-E- Sharif/60.jpg
+data/monuments/test/Charar-E- Sharif/61.jpg
+data/monuments/test/Charar-E- Sharif/62.jpg
+data/monuments/test/Charar-E- Sharif/63.jpg
+data/monuments/test/Charar-E- Sharif/64.jpg
+data/monuments/test/Charar-E- Sharif/65.jpg
+data/monuments/test/Charar-E- Sharif/66.jpg
+data/monuments/test/Charar-E- Sharif/67.jpg
+data/monuments/test/Charar-E- Sharif/68.jpg
+data/monuments/test/Charar-E- Sharif/69.jpg
+data/monuments/test/Charar-E- Sharif/70.jpg
+data/monuments/test/Charar-E- Sharif/71.jpg
+data/monuments/test/Charar-E- Sharif/72.jpg
+data/monuments/test/Charar-E- Sharif/73.jpg
+data/monuments/test/Charar-E- Sharif/74.jpg
+data/monuments/test/Charar-E- Sharif/75.jpg
+data/monuments/test/Charar-E- Sharif/76.jpg
+data/monuments/test/Charar-E- Sharif/77.jpg
+data/monuments/test/Charar-E- Sharif/78.jpg
+data/monuments/test/Charar-E- Sharif/79.jpg
+data/monuments/test/Charar-E- Sharif/80.jpg
+data/monuments/test/Charar-E- Sharif/81.jpg
+data/monuments/test/Charar-E- Sharif/82.jpg
+data/monuments/test/Charar-E- Sharif/83.jpg
+data/monuments/test/Charar-E- Sharif/84.jpg
+data/monuments/test/Chhota_Imambara/1 - Copy.jpg
+data/monuments/test/Chhota_Imambara/1.jpg
+data/monuments/test/Chhota_Imambara/10 - Copy.jpg
+data/monuments/test/Chhota_Imambara/10.jpg
+data/monuments/test/Chhota_Imambara/11 - Copy.jpg
+data/monuments/test/Chhota_Imambara/11.jpg
+data/monuments/test/Chhota_Imambara/12 - Copy.jpg
+data/monuments/test/Chhota_Imambara/12.jpg
+data/monuments/test/Chhota_Imambara/13 - Copy.jpg
+data/monuments/test/Chhota_Imambara/13.jpg
+data/monuments/test/Chhota_Imambara/14 - Copy.jpg
+data/monuments/test/Chhota_Imambara/14.jpg
+data/monuments/test/Chhota_Imambara/15 - Copy.jpg
+data/monuments/test/Chhota_Imambara/15.jpg
+data/monuments/test/Chhota_Imambara/2 - Copy.jpg
+data/monuments/test/Chhota_Imambara/2.jpg
+data/monuments/test/Chhota_Imambara/3 - Copy.jpg
+data/monuments/test/Chhota_Imambara/3.jpg
+data/monuments/test/Chhota_Imambara/4 - Copy.jpg
+data/monuments/test/Chhota_Imambara/4.jpg
+data/monuments/test/Chhota_Imambara/5 - Copy.jpg
+data/monuments/test/Chhota_Imambara/5.jpg
+data/monuments/test/Chhota_Imambara/6 - Copy.jpg
+data/monuments/test/Chhota_Imambara/6.jpg
+data/monuments/test/Chhota_Imambara/7 - Copy.jpg
+data/monuments/test/Chhota_Imambara/7.jpg
+data/monuments/test/Chhota_Imambara/8 - Copy.jpg
+data/monuments/test/Chhota_Imambara/8.jpg
+data/monuments/test/Chhota_Imambara/9 - Copy.jpg
+data/monuments/test/Chhota_Imambara/9.jpg
+data/monuments/test/Ellora Caves/1.jpg
+data/monuments/test/Ellora Caves/10.jpg
+data/monuments/test/Ellora Caves/11.jpg
+data/monuments/test/Ellora Caves/12.jpg
+data/monuments/test/Ellora Caves/13.jpg
+data/monuments/test/Ellora Caves/14.jpg
+data/monuments/test/Ellora Caves/15.jpg
+data/monuments/test/Ellora Caves/16.jpg
+data/monuments/test/Ellora Caves/17.jpg
+data/monuments/test/Ellora Caves/18.jpg
+data/monuments/test/Ellora Caves/19.jpg
+data/monuments/test/Ellora Caves/2.jpg
+data/monuments/test/Ellora Caves/20.jpg
+data/monuments/test/Ellora Caves/21.jpg
+data/monuments/test/Ellora Caves/22.jpg
+data/monuments/test/Ellora Caves/23.jpg
+data/monuments/test/Ellora Caves/24.jpg
+data/monuments/test/Ellora Caves/25.jpg
+data/monuments/test/Ellora Caves/26.jpg
+data/monuments/test/Ellora Caves/27.jpg
+data/monuments/test/Ellora Caves/28.jpg
+data/monuments/test/Ellora Caves/29.jpg
+data/monuments/test/Ellora Caves/3.jpg
+data/monuments/test/Ellora Caves/30.jpg
+data/monuments/test/Ellora Caves/31.jpg
+data/monuments/test/Ellora Caves/32.jpg
+data/monuments/test/Ellora Caves/33.jpg
+data/monuments/test/Ellora Caves/34.jpg
+data/monuments/test/Ellora Caves/4.jpg
+data/monuments/test/Ellora Caves/5.jpg
+data/monuments/test/Ellora Caves/6.jpg
+data/monuments/test/Ellora Caves/7.jpg
+data/monuments/test/Ellora Caves/8.jpg
+data/monuments/test/Ellora Caves/9.jpg
+data/monuments/test/Fatehpur Sikri/1.jpg
+data/monuments/test/Fatehpur Sikri/10.jpg
+data/monuments/test/Fatehpur Sikri/11.jpg
+data/monuments/test/Fatehpur Sikri/12.jpg
+data/monuments/test/Fatehpur Sikri/13.jpg
+data/monuments/test/Fatehpur Sikri/14.jpg
+data/monuments/test/Fatehpur Sikri/15.jpg
+data/monuments/test/Fatehpur Sikri/16.jpg
+data/monuments/test/Fatehpur Sikri/17.jpg
+data/monuments/test/Fatehpur Sikri/18.jpg
+data/monuments/test/Fatehpur Sikri/19.jpg
+data/monuments/test/Fatehpur Sikri/2.jpg
+data/monuments/test/Fatehpur Sikri/20.jpg
+data/monuments/test/Fatehpur Sikri/21.jpg
+data/monuments/test/Fatehpur Sikri/22.jpg
+data/monuments/test/Fatehpur Sikri/23.jpg
+data/monuments/test/Fatehpur Sikri/24.jpg
+data/monuments/test/Fatehpur Sikri/25.jpg
+data/monuments/test/Fatehpur Sikri/26.jpg
+data/monuments/test/Fatehpur Sikri/27.jpg
+data/monuments/test/Fatehpur Sikri/28.jpg
+data/monuments/test/Fatehpur Sikri/29.jpg
+data/monuments/test/Fatehpur Sikri/3.jpg
+data/monuments/test/Fatehpur Sikri/30.jpg
+data/monuments/test/Fatehpur Sikri/31.jpg
+data/monuments/test/Fatehpur Sikri/32.jpg
+data/monuments/test/Fatehpur Sikri/33.jpg
+data/monuments/test/Fatehpur Sikri/34.jpg
+data/monuments/test/Fatehpur Sikri/35.jpg
+data/monuments/test/Fatehpur Sikri/36.jpg
+data/monuments/test/Fatehpur Sikri/37.jpg
+data/monuments/test/Fatehpur Sikri/38.jpg
+data/monuments/test/Fatehpur Sikri/39.jpg
+data/monuments/test/Fatehpur Sikri/4.jpg
+data/monuments/test/Fatehpur Sikri/40.jpg
+data/monuments/test/Fatehpur Sikri/41.jpg
+data/monuments/test/Fatehpur Sikri/42.jpg
+data/monuments/test/Fatehpur Sikri/5.jpg
+data/monuments/test/Fatehpur Sikri/6.jpg
+data/monuments/test/Fatehpur Sikri/7.jpg
+data/monuments/test/Fatehpur Sikri/8.jpg
+data/monuments/test/Fatehpur Sikri/9.jpg
+data/monuments/test/Gateway of India/141.jpg
+data/monuments/test/Gateway of India/142.jpg
+data/monuments/test/Gateway of India/143.jpg
+data/monuments/test/Gateway of India/144.jpg
+data/monuments/test/Gateway of India/145.jpg
+data/monuments/test/Gateway of India/146.jpg
+data/monuments/test/Gateway of India/147.jpg
+data/monuments/test/Gateway of India/148.jpg
+data/monuments/test/Gateway of India/149.jpg
+data/monuments/test/Gateway of India/150.jpg
+data/monuments/test/Gateway of India/151.jpg
+data/monuments/test/Gateway of India/152.jpg
+data/monuments/test/Gateway of India/153.jpg
+data/monuments/test/Gateway of India/154.jpg
+data/monuments/test/Gateway of India/155.jpg
+data/monuments/test/Gateway of India/156.jpg
+data/monuments/test/Gateway of India/157.jpg
+data/monuments/test/Gateway of India/158.jpg
+data/monuments/test/Gateway of India/159.jpg
+data/monuments/test/Gateway of India/160.jpg
+data/monuments/test/Gateway of India/161.jpg
+data/monuments/test/Gateway of India/162.jpg
+data/monuments/test/Gateway of India/163.jpg
+data/monuments/test/Gateway of India/164.jpg
+data/monuments/test/Gateway of India/165.jpg
+data/monuments/test/Gateway of India/166.jpg
+data/monuments/test/Gateway of India/167.jpg
+data/monuments/test/Gateway of India/168.jpg
+data/monuments/test/Gateway of India/169.jpg
+data/monuments/test/Gateway of India/170.jpg
+data/monuments/test/Hawa mahal/b1240a2c54c7fb8e29a9e4d320018a77.jpg
+data/monuments/test/Hawa mahal/images-121.jpeg
+data/monuments/test/Hawa mahal/images-122.jpeg
+data/monuments/test/Hawa mahal/images-123.jpeg
+data/monuments/test/Hawa mahal/images-124.jpeg
+data/monuments/test/Hawa mahal/images-125.jpeg
+data/monuments/test/Hawa mahal/images-126.jpeg
+data/monuments/test/Hawa mahal/images-127.jpeg
+data/monuments/test/Hawa mahal/images-128.jpeg
+data/monuments/test/Hawa mahal/images-129.jpeg
+data/monuments/test/Hawa mahal/images-130.jpeg
+data/monuments/test/Hawa mahal/images-131.jpeg
+data/monuments/test/Hawa mahal/images-132.jpeg
+data/monuments/test/Hawa mahal/images-133.jpeg
+data/monuments/test/Hawa mahal/images-134.jpeg
+data/monuments/test/Hawa mahal/images-135.jpeg
+data/monuments/test/Hawa mahal/images-136.jpeg
+data/monuments/test/Hawa mahal/images-137.jpeg
+data/monuments/test/Hawa mahal/images-138.jpeg
+data/monuments/test/Hawa mahal/images-139.jpeg
+data/monuments/test/Hawa mahal/images-140.jpeg
+data/monuments/test/Hawa mahal/images-141.jpeg
+data/monuments/test/Hawa mahal/images-142.jpeg
+data/monuments/test/Hawa mahal/images-143.jpeg
+data/monuments/test/Hawa mahal/images-144.jpeg
+data/monuments/test/Hawa mahal/images-145.jpeg
+data/monuments/test/Hawa mahal/images-146.jpeg
+data/monuments/test/Hawa mahal/images-147.jpeg
+data/monuments/test/Hawa mahal/images-148.jpeg
+data/monuments/test/Hawa mahal/images-149.jpeg
+data/monuments/test/Hawa mahal/images-150.jpeg
+data/monuments/test/Hawa mahal/images-151.jpeg
+data/monuments/test/Hawa mahal/images-152.jpeg
+data/monuments/test/Hawa mahal/images-153.jpeg
+data/monuments/test/Hawa mahal/images-154.jpeg
+data/monuments/test/Hawa mahal/images-155.jpeg
+data/monuments/test/Hawa mahal/images-156.jpeg
+data/monuments/test/Hawa mahal/images-157.jpeg
+data/monuments/test/Hawa mahal/images-158.jpeg
+data/monuments/test/Hawa mahal/images-159.jpeg
+data/monuments/test/Hawa mahal/images-160.jpeg
+data/monuments/test/Hawa mahal/images-161.jpeg
+data/monuments/test/Hawa mahal/images-162.jpeg
+data/monuments/test/Hawa mahal/images-163.jpeg
+data/monuments/test/Hawa mahal/images-164.jpeg
+data/monuments/test/Hawa mahal/images-165.jpeg
+data/monuments/test/Hawa mahal/images-166.jpeg
+data/monuments/test/Hawa mahal/images-167.jpeg
+data/monuments/test/Hawa mahal/images-168.jpeg
+data/monuments/test/Hawa mahal/images-169.jpeg
+data/monuments/test/Hawa mahal/images-170.jpeg
+data/monuments/test/Hawa mahal/images-171.jpeg
+data/monuments/test/Hawa mahal/images-172.jpeg
+data/monuments/test/Hawa mahal/images-173.jpeg
+data/monuments/test/Hawa mahal/images-174.jpeg
+data/monuments/test/Hawa mahal/images-175.jpeg
+data/monuments/test/Hawa mahal/images-176.jpeg
+data/monuments/test/Hawa mahal/images-177.jpeg
+data/monuments/test/Hawa mahal/images-178.jpeg
+data/monuments/test/Hawa mahal/images-179.jpeg
+data/monuments/test/Hawa mahal/images.jpeg
+data/monuments/test/Hawa mahal/m (100).jpg
+data/monuments/test/Hawa mahal/m (81).jpg
+data/monuments/test/Hawa mahal/m (82).jpg
+data/monuments/test/Hawa mahal/m (83).jpg
+data/monuments/test/Hawa mahal/m (84).jpg
+data/monuments/test/Hawa mahal/m (85).jpg
+data/monuments/test/Hawa mahal/m (86).jpg
+data/monuments/test/Hawa mahal/m (87).jpg
+data/monuments/test/Hawa mahal/m (88).jpg
+data/monuments/test/Hawa mahal/m (89).jpg
+data/monuments/test/Hawa mahal/m (90).jpg
+data/monuments/test/Hawa mahal/m (91).jpg
+data/monuments/test/Hawa mahal/m (92).jpg
+data/monuments/test/Hawa mahal/m (93).jpg
+data/monuments/test/Hawa mahal/m (94).jpg
+data/monuments/test/Hawa mahal/m (95).jpg
+data/monuments/test/Hawa mahal/m (96).jpg
+data/monuments/test/Hawa mahal/m (97).jpg
+data/monuments/test/Hawa mahal/m (98).jpg
+data/monuments/test/Hawa mahal/m (99).jpg
+data/monuments/test/Humayun_s Tomb/1.jpg
+data/monuments/test/Humayun_s Tomb/10.jpg
+data/monuments/test/Humayun_s Tomb/11.jpg
+data/monuments/test/Humayun_s Tomb/12.jpg
+data/monuments/test/Humayun_s Tomb/13.jpg
+data/monuments/test/Humayun_s Tomb/14.jpg
+data/monuments/test/Humayun_s Tomb/15.jpg
+data/monuments/test/Humayun_s Tomb/16.jpg
+data/monuments/test/Humayun_s Tomb/17.jpg
+data/monuments/test/Humayun_s Tomb/18.jpg
+data/monuments/test/Humayun_s Tomb/19.jpg
+data/monuments/test/Humayun_s Tomb/2.jpg
+data/monuments/test/Humayun_s Tomb/20.jpg
+data/monuments/test/Humayun_s Tomb/21.jpg
+data/monuments/test/Humayun_s Tomb/22.jpg
+data/monuments/test/Humayun_s Tomb/23.jpg
+data/monuments/test/Humayun_s Tomb/24.jpg
+data/monuments/test/Humayun_s Tomb/25.jpg
+data/monuments/test/Humayun_s Tomb/26.jpg
+data/monuments/test/Humayun_s Tomb/27.jpg
+data/monuments/test/Humayun_s Tomb/28.jpg
+data/monuments/test/Humayun_s Tomb/29.jpg
+data/monuments/test/Humayun_s Tomb/3.jpg
+data/monuments/test/Humayun_s Tomb/30.jpg
+data/monuments/test/Humayun_s Tomb/4.jpg
+data/monuments/test/Humayun_s Tomb/5.jpg
+data/monuments/test/Humayun_s Tomb/6.jpg
+data/monuments/test/Humayun_s Tomb/7.jpg
+data/monuments/test/Humayun_s Tomb/8.jpg
+data/monuments/test/Humayun_s Tomb/9.jpg
+data/monuments/test/India_gate/i (100).png
+data/monuments/test/India_gate/i (81).jpg
+data/monuments/test/India_gate/i (82).jpg
+data/monuments/test/India_gate/i (83).jpg
+data/monuments/test/India_gate/i (84).jpg
+data/monuments/test/India_gate/i (85).jpg
+data/monuments/test/India_gate/i (86).jpg
+data/monuments/test/India_gate/i (87).jpg
+data/monuments/test/India_gate/i (88).jpg
+data/monuments/test/India_gate/i (89).jpg
+data/monuments/test/India_gate/i (90).jpg
+data/monuments/test/India_gate/i (91).jpg
+data/monuments/test/India_gate/i (92).jpg
+data/monuments/test/India_gate/i (93).jpg
+data/monuments/test/India_gate/i (94).jpg
+data/monuments/test/India_gate/i (95).jpg
+data/monuments/test/India_gate/i (96).jpg
+data/monuments/test/India_gate/i (97).jpg
+data/monuments/test/India_gate/i (98).jpg
+data/monuments/test/India_gate/i (99).jpg
+data/monuments/test/India_gate/images-10.jpeg
+data/monuments/test/India_gate/images-11.jpeg
+data/monuments/test/India_gate/images-12.jpeg
+data/monuments/test/India_gate/images-13.jpeg
+data/monuments/test/India_gate/images-14.jpeg
+data/monuments/test/India_gate/images-15.jpeg
+data/monuments/test/India_gate/images-16.jpeg
+data/monuments/test/India_gate/images-17.jpeg
+data/monuments/test/India_gate/images-18.jpeg
+data/monuments/test/India_gate/images-19.jpeg
+data/monuments/test/India_gate/images-2.jpeg
+data/monuments/test/India_gate/images-20.jpeg
+data/monuments/test/India_gate/images-21.jpeg
+data/monuments/test/India_gate/images-22.jpeg
+data/monuments/test/India_gate/images-23.jpeg
+data/monuments/test/India_gate/images-24.jpeg
+data/monuments/test/India_gate/images-25.jpeg
+data/monuments/test/India_gate/images-3.jpeg
+data/monuments/test/India_gate/images-4.jpeg
+data/monuments/test/India_gate/images-5.jpeg
+data/monuments/test/India_gate/images-6.jpeg
+data/monuments/test/India_gate/images-7.jpeg
+data/monuments/test/India_gate/images-8.jpeg
+data/monuments/test/India_gate/images-9.jpeg
+data/monuments/test/India_gate/images.jpeg
+data/monuments/test/Khajuraho/1.jpg
+data/monuments/test/Khajuraho/10.jpg
+data/monuments/test/Khajuraho/11.jpg
+data/monuments/test/Khajuraho/12.jpg
+data/monuments/test/Khajuraho/13.jpg
+data/monuments/test/Khajuraho/14.jpg
+data/monuments/test/Khajuraho/15.jpg
+data/monuments/test/Khajuraho/16.jpg
+data/monuments/test/Khajuraho/17.jpg
+data/monuments/test/Khajuraho/18.jpg
+data/monuments/test/Khajuraho/19.jpg
+data/monuments/test/Khajuraho/2.jpg
+data/monuments/test/Khajuraho/20.jpg
+data/monuments/test/Khajuraho/21.jpg
+data/monuments/test/Khajuraho/22.jpg
+data/monuments/test/Khajuraho/23.jpg
+data/monuments/test/Khajuraho/24.jpg
+data/monuments/test/Khajuraho/25.jpg
+data/monuments/test/Khajuraho/26.jpg
+data/monuments/test/Khajuraho/27.jpg
+data/monuments/test/Khajuraho/28.jpg
+data/monuments/test/Khajuraho/29.jpg
+data/monuments/test/Khajuraho/3.jpg
+data/monuments/test/Khajuraho/30.jpg
+data/monuments/test/Khajuraho/31.jpg
+data/monuments/test/Khajuraho/32.jpg
+data/monuments/test/Khajuraho/33.jpg
+data/monuments/test/Khajuraho/34.jpg
+data/monuments/test/Khajuraho/35.jpg
+data/monuments/test/Khajuraho/36.jpg
+data/monuments/test/Khajuraho/37.jpg
+data/monuments/test/Khajuraho/38.jpg
+data/monuments/test/Khajuraho/39.jpg
+data/monuments/test/Khajuraho/4.jpg
+data/monuments/test/Khajuraho/40.jpg
+data/monuments/test/Khajuraho/41.jpg
+data/monuments/test/Khajuraho/42.jpg
+data/monuments/test/Khajuraho/43.jpg
+data/monuments/test/Khajuraho/44.jpg
+data/monuments/test/Khajuraho/5.jpg
+data/monuments/test/Khajuraho/6.jpg
+data/monuments/test/Khajuraho/7.jpg
+data/monuments/test/Khajuraho/8.jpg
+data/monuments/test/Khajuraho/9.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/1 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/1.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/10 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/10.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/11 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/11.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/12 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/12.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/13 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/13.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/14 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/14.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/15 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/15.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/2 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/2.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/3 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/3.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/4 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/4.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/5 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/5.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/6 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/6.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/7 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/7.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/8 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/8.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/9 - Copy.jpg
+data/monuments/test/Khajuraho/Chhota_Imambara/9.jpg
+data/monuments/test/Khajuraho/lotus_temple/1.jfif
+data/monuments/test/Khajuraho/lotus_temple/10.jfif
+data/monuments/test/Khajuraho/lotus_temple/11.jfif
+data/monuments/test/Khajuraho/lotus_temple/12.jfif
+data/monuments/test/Khajuraho/lotus_temple/13.jfif
+data/monuments/test/Khajuraho/lotus_temple/14.jfif
+data/monuments/test/Khajuraho/lotus_temple/15.jfif
+data/monuments/test/Khajuraho/lotus_temple/16.jfif
+data/monuments/test/Khajuraho/lotus_temple/17.jfif
+data/monuments/test/Khajuraho/lotus_temple/18.jfif
+data/monuments/test/Khajuraho/lotus_temple/19.jfif
+data/monuments/test/Khajuraho/lotus_temple/2.jfif
+data/monuments/test/Khajuraho/lotus_temple/20.jfif
+data/monuments/test/Khajuraho/lotus_temple/21.jfif
+data/monuments/test/Khajuraho/lotus_temple/22.jfif
+data/monuments/test/Khajuraho/lotus_temple/23.jfif
+data/monuments/test/Khajuraho/lotus_temple/24.jfif
+data/monuments/test/Khajuraho/lotus_temple/25.jfif
+data/monuments/test/Khajuraho/lotus_temple/26.jfif
+data/monuments/test/Khajuraho/lotus_temple/27.jfif
+data/monuments/test/Khajuraho/lotus_temple/28.jfif
+data/monuments/test/Khajuraho/lotus_temple/29.jfif
+data/monuments/test/Khajuraho/lotus_temple/3.jfif
+data/monuments/test/Khajuraho/lotus_temple/30.jfif
+data/monuments/test/Khajuraho/lotus_temple/4.jfif
+data/monuments/test/Khajuraho/lotus_temple/5.jfif
+data/monuments/test/Khajuraho/lotus_temple/6.jfif
+data/monuments/test/Khajuraho/lotus_temple/7.jfif
+data/monuments/test/Khajuraho/lotus_temple/8.jfif
+data/monuments/test/Khajuraho/lotus_temple/9.jfif
+data/monuments/test/Khajuraho/mysore_palace/1.jpg
+data/monuments/test/Khajuraho/mysore_palace/10.jpg
+data/monuments/test/Khajuraho/mysore_palace/11.jpg
+data/monuments/test/Khajuraho/mysore_palace/12.jpg
+data/monuments/test/Khajuraho/mysore_palace/13.jpg
+data/monuments/test/Khajuraho/mysore_palace/14.jpg
+data/monuments/test/Khajuraho/mysore_palace/15.jpg
+data/monuments/test/Khajuraho/mysore_palace/16.jpg
+data/monuments/test/Khajuraho/mysore_palace/17.jpg
+data/monuments/test/Khajuraho/mysore_palace/18.jpg
+data/monuments/test/Khajuraho/mysore_palace/19.jpg
+data/monuments/test/Khajuraho/mysore_palace/2.jpg
+data/monuments/test/Khajuraho/mysore_palace/20.jpg
+data/monuments/test/Khajuraho/mysore_palace/21.jpg
+data/monuments/test/Khajuraho/mysore_palace/22.jpg
+data/monuments/test/Khajuraho/mysore_palace/23.jpg
+data/monuments/test/Khajuraho/mysore_palace/24.jpg
+data/monuments/test/Khajuraho/mysore_palace/25.jpg
+data/monuments/test/Khajuraho/mysore_palace/26.jpg
+data/monuments/test/Khajuraho/mysore_palace/27.jpg
+data/monuments/test/Khajuraho/mysore_palace/28.jpg
+data/monuments/test/Khajuraho/mysore_palace/29.jpg
+data/monuments/test/Khajuraho/mysore_palace/3.jpg
+data/monuments/test/Khajuraho/mysore_palace/30.jpg
+data/monuments/test/Khajuraho/mysore_palace/4.jpg
+data/monuments/test/Khajuraho/mysore_palace/5.jpg
+data/monuments/test/Khajuraho/mysore_palace/7.jpg
+data/monuments/test/Khajuraho/mysore_palace/8.jpg
+data/monuments/test/Khajuraho/mysore_palace/9.jpg
+data/monuments/test/Sun Temple Konark/1.jpg
+data/monuments/test/Sun Temple Konark/10.jpg
+data/monuments/test/Sun Temple Konark/11.jpg
+data/monuments/test/Sun Temple Konark/12.jpg
+data/monuments/test/Sun Temple Konark/13.jpg
+data/monuments/test/Sun Temple Konark/14.jpg
+data/monuments/test/Sun Temple Konark/15.jpg
+data/monuments/test/Sun Temple Konark/16.jpg
+data/monuments/test/Sun Temple Konark/17.jpg
+data/monuments/test/Sun Temple Konark/18.jpg
+data/monuments/test/Sun Temple Konark/19.jpg
+data/monuments/test/Sun Temple Konark/2.jpg
+data/monuments/test/Sun Temple Konark/20.jpg
+data/monuments/test/Sun Temple Konark/21.jpg
+data/monuments/test/Sun Temple Konark/22.jpg
+data/monuments/test/Sun Temple Konark/23.jpg
+data/monuments/test/Sun Temple Konark/24.jpg
+data/monuments/test/Sun Temple Konark/25.jpg
+data/monuments/test/Sun Temple Konark/26.jpg
+data/monuments/test/Sun Temple Konark/27.jpg
+data/monuments/test/Sun Temple Konark/28.jpg
+data/monuments/test/Sun Temple Konark/29.jpg
+data/monuments/test/Sun Temple Konark/3.jpg
+data/monuments/test/Sun Temple Konark/30.jpg
+data/monuments/test/Sun Temple Konark/31.jpg
+data/monuments/test/Sun Temple Konark/32.jpg
+data/monuments/test/Sun Temple Konark/33.jpg
+data/monuments/test/Sun Temple Konark/34.jpg
+data/monuments/test/Sun Temple Konark/35.jpg
+data/monuments/test/Sun Temple Konark/36.jpg
+data/monuments/test/Sun Temple Konark/37.jpg
+data/monuments/test/Sun Temple Konark/38.jpg
+data/monuments/test/Sun Temple Konark/39.jpg
+data/monuments/test/Sun Temple Konark/4.jpg
+data/monuments/test/Sun Temple Konark/40.jpg
+data/monuments/test/Sun Temple Konark/5.jpg
+data/monuments/test/Sun Temple Konark/6.jpg
+data/monuments/test/Sun Temple Konark/7.jpg
+data/monuments/test/Sun Temple Konark/8.jpg
+data/monuments/test/Sun Temple Konark/9.jpg
+data/monuments/test/alai_darwaza/img175.jpg
+data/monuments/test/alai_darwaza/img180.jpg
+data/monuments/test/alai_darwaza/img194.jpg
+data/monuments/test/alai_darwaza/img195.jpg
+data/monuments/test/alai_darwaza/img205.jpg
+data/monuments/test/alai_darwaza/img220.jpg
+data/monuments/test/alai_darwaza/img226.jpg
+data/monuments/test/alai_darwaza/img228.jpg
+data/monuments/test/alai_darwaza/img230.jpg
+data/monuments/test/alai_darwaza/img232.jpg
+data/monuments/test/alai_darwaza/img234.jpg
+data/monuments/test/alai_darwaza/img238.jpg
+data/monuments/test/alai_darwaza/img254.jpg
+data/monuments/test/alai_darwaza/img256.jpg
+data/monuments/test/alai_darwaza/img260.jpg
+data/monuments/test/alai_darwaza/img262.jpg
+data/monuments/test/alai_darwaza/img269.jpg
+data/monuments/test/alai_darwaza/img287.jpg
+data/monuments/test/alai_darwaza/img293.jpg
+data/monuments/test/alai_darwaza/img318.jpg
+data/monuments/test/alai_darwaza/img335.jpg
+data/monuments/test/alai_darwaza/img381.jpg
+data/monuments/test/alai_darwaza/img445.jpg
+data/monuments/test/alai_darwaza/img566.jpg
+data/monuments/test/alai_darwaza/img572.jpg
+data/monuments/test/alai_darwaza/img580.jpg
+data/monuments/test/alai_darwaza/img583.jpg
+data/monuments/test/alai_darwaza/img584.jpeg
+data/monuments/test/alai_darwaza/img585.jpg
+data/monuments/test/alai_darwaza/img590.jpg
+data/monuments/test/alai_darwaza/img593.jpg
+data/monuments/test/alai_darwaza/img594.jpg
+data/monuments/test/alai_darwaza/img601.jpg
+data/monuments/test/alai_darwaza/img605.jpg
+data/monuments/test/alai_darwaza/img613.jpg
+data/monuments/test/alai_darwaza/img614.jpg
+data/monuments/test/alai_minar/img231.jpg
+data/monuments/test/alai_minar/img232.jpg
+data/monuments/test/alai_minar/img233.jpg
+data/monuments/test/alai_minar/img241.jpg
+data/monuments/test/alai_minar/img243.jpg
+data/monuments/test/alai_minar/img247.jpg
+data/monuments/test/alai_minar/img250.jpg
+data/monuments/test/alai_minar/img253.jpg
+data/monuments/test/alai_minar/img268.jpg
+data/monuments/test/alai_minar/img293.jpg
+data/monuments/test/alai_minar/img294.jpg
+data/monuments/test/alai_minar/img335.jpg
+data/monuments/test/alai_minar/img346.jpg
+data/monuments/test/alai_minar/img349.jpg
+data/monuments/test/alai_minar/img365.jpg
+data/monuments/test/alai_minar/img371.jpg
+data/monuments/test/alai_minar/img372.jpg
+data/monuments/test/alai_minar/img376.jpg
+data/monuments/test/alai_minar/img378.jpg
+data/monuments/test/alai_minar/img379.jpg
+data/monuments/test/alai_minar/img380.jpg
+data/monuments/test/alai_minar/img383.jpg
+data/monuments/test/alai_minar/img384.jpg
+data/monuments/test/alai_minar/img385.jpg
+data/monuments/test/alai_minar/img387.jpg
+data/monuments/test/alai_minar/img388.jpg
+data/monuments/test/alai_minar/img392.jpg
+data/monuments/test/alai_minar/img393.jpg
+data/monuments/test/alai_minar/img394.jpg
+data/monuments/test/alai_minar/img397.jpg
+data/monuments/test/alai_minar/img398.jpg
+data/monuments/test/alai_minar/img401.jpg
+data/monuments/test/alai_minar/img402.jpg
+data/monuments/test/alai_minar/img411.jpg
+data/monuments/test/alai_minar/img500.jpg
+data/monuments/test/basilica_of_bom_jesus/1.jpg
+data/monuments/test/basilica_of_bom_jesus/10.jpg
+data/monuments/test/basilica_of_bom_jesus/11.jpg
+data/monuments/test/basilica_of_bom_jesus/12.jpg
+data/monuments/test/basilica_of_bom_jesus/13.jpg
+data/monuments/test/basilica_of_bom_jesus/14.jpg
+data/monuments/test/basilica_of_bom_jesus/15.jpg
+data/monuments/test/basilica_of_bom_jesus/16.jpg
+data/monuments/test/basilica_of_bom_jesus/17.jpg
+data/monuments/test/basilica_of_bom_jesus/18.jpg
+data/monuments/test/basilica_of_bom_jesus/19.jpg
+data/monuments/test/basilica_of_bom_jesus/2.jpg
+data/monuments/test/basilica_of_bom_jesus/20.jpg
+data/monuments/test/basilica_of_bom_jesus/21.jpg
+data/monuments/test/basilica_of_bom_jesus/22.jpg
+data/monuments/test/basilica_of_bom_jesus/23.jpg
+data/monuments/test/basilica_of_bom_jesus/24.jpg
+data/monuments/test/basilica_of_bom_jesus/25.jpg
+data/monuments/test/basilica_of_bom_jesus/26.jpg
+data/monuments/test/basilica_of_bom_jesus/27.jpg
+data/monuments/test/basilica_of_bom_jesus/28.jpg
+data/monuments/test/basilica_of_bom_jesus/29.jpg
+data/monuments/test/basilica_of_bom_jesus/3.jpg
+data/monuments/test/basilica_of_bom_jesus/30.jpg
+data/monuments/test/basilica_of_bom_jesus/4.jpg
+data/monuments/test/basilica_of_bom_jesus/5.jpg
+data/monuments/test/basilica_of_bom_jesus/6.jpg
+data/monuments/test/basilica_of_bom_jesus/7.jpg
+data/monuments/test/basilica_of_bom_jesus/8.jpg
+data/monuments/test/basilica_of_bom_jesus/9.jpg
+data/monuments/test/charminar/1.jfif
+data/monuments/test/charminar/10.jfif
+data/monuments/test/charminar/11.jfif
+data/monuments/test/charminar/12.jfif
+data/monuments/test/charminar/13.jfif
+data/monuments/test/charminar/14.jfif
+data/monuments/test/charminar/15.jfif
+data/monuments/test/charminar/16.jfif
+data/monuments/test/charminar/17.jfif
+data/monuments/test/charminar/18.jfif
+data/monuments/test/charminar/19.jfif
+data/monuments/test/charminar/2.jfif
+data/monuments/test/charminar/20.jfif
+data/monuments/test/charminar/21.jfif
+data/monuments/test/charminar/22.jfif
+data/monuments/test/charminar/23.jfif
+data/monuments/test/charminar/24.jfif
+data/monuments/test/charminar/25.jfif
+data/monuments/test/charminar/26.jfif
+data/monuments/test/charminar/27.jfif
+data/monuments/test/charminar/28.jfif
+data/monuments/test/charminar/29.jfif
+data/monuments/test/charminar/3.jfif
+data/monuments/test/charminar/30.jfif
+data/monuments/test/charminar/31.jfif
+data/monuments/test/charminar/32.jfif
+data/monuments/test/charminar/33.jfif
+data/monuments/test/charminar/34.jfif
+data/monuments/test/charminar/35.jpg
+data/monuments/test/charminar/36.jfif
+data/monuments/test/charminar/37.jfif
+data/monuments/test/charminar/38.jfif
+data/monuments/test/charminar/39.jfif
+data/monuments/test/charminar/4.jfif
+data/monuments/test/charminar/40.jfif
+data/monuments/test/charminar/5.jfif
+data/monuments/test/charminar/6.jfif
+data/monuments/test/charminar/7.jfif
+data/monuments/test/charminar/8.jfif
+data/monuments/test/charminar/9.jfif
+data/monuments/test/golden temple/10.jpeg
+data/monuments/test/golden temple/100.jpg
+data/monuments/test/golden temple/11.jpeg
+data/monuments/test/golden temple/12.jpeg
+data/monuments/test/golden temple/13.jpeg
+data/monuments/test/golden temple/14.jpeg
+data/monuments/test/golden temple/15.jpeg
+data/monuments/test/golden temple/16.jpeg
+data/monuments/test/golden temple/17.jpeg
+data/monuments/test/golden temple/18.jpeg
+data/monuments/test/golden temple/19.jpeg
+data/monuments/test/golden temple/20.jpeg
+data/monuments/test/golden temple/3.jpeg
+data/monuments/test/golden temple/4.jpeg
+data/monuments/test/golden temple/5.jpeg
+data/monuments/test/golden temple/6.jpeg
+data/monuments/test/golden temple/7.jpeg
+data/monuments/test/golden temple/8.jpeg
+data/monuments/test/golden temple/81.jpg
+data/monuments/test/golden temple/82.jpg
+data/monuments/test/golden temple/83.jpg
+data/monuments/test/golden temple/84.jpg
+data/monuments/test/golden temple/85.jpg
+data/monuments/test/golden temple/86.jpg
+data/monuments/test/golden temple/87.jpg
+data/monuments/test/golden temple/88.jpg
+data/monuments/test/golden temple/89.jpg
+data/monuments/test/golden temple/9.jpeg
+data/monuments/test/golden temple/90.jpg
+data/monuments/test/golden temple/91.jpg
+data/monuments/test/golden temple/92.jpg
+data/monuments/test/golden temple/93.jpg
+data/monuments/test/golden temple/94.jpg
+data/monuments/test/golden temple/95.jpg
+data/monuments/test/golden temple/96.jpg
+data/monuments/test/golden temple/97.jpg
+data/monuments/test/golden temple/98.jpg
+data/monuments/test/golden temple/99.jpg
+data/monuments/test/golden temple/Unknown.jpeg
+data/monuments/test/golden temple/images-55.jpeg
+data/monuments/test/golden temple/images-56.jpeg
+data/monuments/test/golden temple/images-57.jpeg
+data/monuments/test/golden temple/images-58.jpeg
+data/monuments/test/golden temple/images-59.jpeg
+data/monuments/test/golden temple/images-60.jpeg
+data/monuments/test/golden temple/images-61.jpeg
+data/monuments/test/golden temple/images-62.jpeg
+data/monuments/test/golden temple/images-63.jpeg
+data/monuments/test/golden temple/images-64.jpeg
+data/monuments/test/golden temple/images-65.jpeg
+data/monuments/test/golden temple/images-66.jpeg
+data/monuments/test/golden temple/images-67.jpeg
+data/monuments/test/golden temple/images-68.jpeg
+data/monuments/test/golden temple/images-69.jpeg
+data/monuments/test/golden temple/images-70.jpeg
+data/monuments/test/golden temple/images-71.jpeg
+data/monuments/test/golden temple/images-72.jpeg
+data/monuments/test/golden temple/images-73.jpeg
+data/monuments/test/golden temple/images-74.jpeg
+data/monuments/test/golden temple/images-75.jpeg
+data/monuments/test/golden temple/images-76.jpeg
+data/monuments/test/golden temple/images-77.jpeg
+data/monuments/test/golden temple/images-78.jpeg
+data/monuments/test/golden temple/images-79.jpeg
+data/monuments/test/golden temple/images.jpeg
+data/monuments/test/iron_pillar/img1.jpg
+data/monuments/test/iron_pillar/img10.jpg
+data/monuments/test/iron_pillar/img100.jpg
+data/monuments/test/iron_pillar/img101.jpg
+data/monuments/test/iron_pillar/img102.jpg
+data/monuments/test/iron_pillar/img103.jpg
+data/monuments/test/iron_pillar/img104.jpg
+data/monuments/test/iron_pillar/img105.jpg
+data/monuments/test/iron_pillar/img108.jpg
+data/monuments/test/iron_pillar/img109.jpg
+data/monuments/test/iron_pillar/img11.jpg
+data/monuments/test/iron_pillar/img110.jpg
+data/monuments/test/iron_pillar/img111.jpg
+data/monuments/test/iron_pillar/img112.jpg
+data/monuments/test/iron_pillar/img13.jpg
+data/monuments/test/iron_pillar/img14.jpg
+data/monuments/test/iron_pillar/img15.jpg
+data/monuments/test/iron_pillar/img16.jpg
+data/monuments/test/iron_pillar/img17.jpg
+data/monuments/test/iron_pillar/img18.jpg
+data/monuments/test/iron_pillar/img19.jpg
+data/monuments/test/iron_pillar/img20.jpg
+data/monuments/test/iron_pillar/img21.jpg
+data/monuments/test/iron_pillar/img22.jpg
+data/monuments/test/iron_pillar/img23.jpg
+data/monuments/test/iron_pillar/img24.jpg
+data/monuments/test/iron_pillar/img25.jpg
+data/monuments/test/iron_pillar/img26.jpg
+data/monuments/test/iron_pillar/img27.jpg
+data/monuments/test/iron_pillar/img28.jpg
+data/monuments/test/iron_pillar/img29.png
+data/monuments/test/iron_pillar/img3.jpg
+data/monuments/test/iron_pillar/img30.jpg
+data/monuments/test/iron_pillar/img31.jpg
+data/monuments/test/iron_pillar/img32.jpg
+data/monuments/test/iron_pillar/img33.jpg
+data/monuments/test/iron_pillar/img34.jpg
+data/monuments/test/iron_pillar/img35.jpg
+data/monuments/test/iron_pillar/img36.jpg
+data/monuments/test/iron_pillar/img37.jpg
+data/monuments/test/iron_pillar/img38.jpg
+data/monuments/test/iron_pillar/img39.jpg
+data/monuments/test/iron_pillar/img40.jpg
+data/monuments/test/iron_pillar/img41.jpg
+data/monuments/test/iron_pillar/img43.jpg
+data/monuments/test/iron_pillar/img44.jpg
+data/monuments/test/iron_pillar/img45.jpg
+data/monuments/test/iron_pillar/img46.jpg
+data/monuments/test/iron_pillar/img47.jpg
+data/monuments/test/iron_pillar/img48.jpg
+data/monuments/test/iron_pillar/img49.jpg
+data/monuments/test/iron_pillar/img50.jpg
+data/monuments/test/iron_pillar/img51.jpg
+data/monuments/test/iron_pillar/img52.jpg
+data/monuments/test/iron_pillar/img53.jpg
+data/monuments/test/iron_pillar/img54.jpg
+data/monuments/test/iron_pillar/img55.jpg
+data/monuments/test/iron_pillar/img56.jpg
+data/monuments/test/iron_pillar/img57.jpg
+data/monuments/test/iron_pillar/img58.jpg
+data/monuments/test/iron_pillar/img59.jpg
+data/monuments/test/iron_pillar/img6.jpg
+data/monuments/test/iron_pillar/img60.jpg
+data/monuments/test/iron_pillar/img61.jpg
+data/monuments/test/iron_pillar/img62.jpg
+data/monuments/test/iron_pillar/img63.jpg
+data/monuments/test/iron_pillar/img64.jpg
+data/monuments/test/iron_pillar/img65.jpg
+data/monuments/test/iron_pillar/img68.jpg
+data/monuments/test/iron_pillar/img69.jpg
+data/monuments/test/iron_pillar/img7.jpg
+data/monuments/test/iron_pillar/img70.jpg
+data/monuments/test/iron_pillar/img71.jpg
+data/monuments/test/iron_pillar/img72.jpg
+data/monuments/test/iron_pillar/img73.jpg
+data/monuments/test/iron_pillar/img74.jpg
+data/monuments/test/iron_pillar/img75.jpg
+data/monuments/test/iron_pillar/img76.jpg
+data/monuments/test/iron_pillar/img77.jpg
+data/monuments/test/iron_pillar/img78.jpg
+data/monuments/test/iron_pillar/img79.jpg
+data/monuments/test/iron_pillar/img8.jpg
+data/monuments/test/iron_pillar/img80.png
+data/monuments/test/iron_pillar/img82.jpg
+data/monuments/test/iron_pillar/img84.jpg
+data/monuments/test/iron_pillar/img85.jpg
+data/monuments/test/iron_pillar/img86.jpg
+data/monuments/test/iron_pillar/img87.jpg
+data/monuments/test/iron_pillar/img88.jpg
+data/monuments/test/iron_pillar/img89.jpg
+data/monuments/test/iron_pillar/img9.jpg
+data/monuments/test/iron_pillar/img90.jpg
+data/monuments/test/iron_pillar/img91.jpg
+data/monuments/test/iron_pillar/img92.jpg
+data/monuments/test/iron_pillar/img93.jpg
+data/monuments/test/iron_pillar/img94.jpg
+data/monuments/test/iron_pillar/img95.jpg
+data/monuments/test/iron_pillar/img97.jpg
+data/monuments/test/iron_pillar/img98.jpg
+data/monuments/test/iron_pillar/img99.jpg
+data/monuments/test/jamali_kamali_tomb/img309.jpg
+data/monuments/test/jamali_kamali_tomb/img310.jpg
+data/monuments/test/jamali_kamali_tomb/img312.jpg
+data/monuments/test/jamali_kamali_tomb/img313.jpg
+data/monuments/test/jamali_kamali_tomb/img316.jpg
+data/monuments/test/jamali_kamali_tomb/img318.jpg
+data/monuments/test/jamali_kamali_tomb/img329.jpg
+data/monuments/test/jamali_kamali_tomb/img332.jpg
+data/monuments/test/jamali_kamali_tomb/img336.jpg
+data/monuments/test/jamali_kamali_tomb/img341.jpg
+data/monuments/test/jamali_kamali_tomb/img342.jpg
+data/monuments/test/jamali_kamali_tomb/img343.jpg
+data/monuments/test/jamali_kamali_tomb/img344.jpg
+data/monuments/test/jamali_kamali_tomb/img347.jpg
+data/monuments/test/jamali_kamali_tomb/img348.jpg
+data/monuments/test/jamali_kamali_tomb/img355.jpg
+data/monuments/test/jamali_kamali_tomb/img356.jpg
+data/monuments/test/jamali_kamali_tomb/img357.jpg
+data/monuments/test/jamali_kamali_tomb/img358.jpg
+data/monuments/test/jamali_kamali_tomb/img359.jpg
+data/monuments/test/jamali_kamali_tomb/img360.jpg
+data/monuments/test/jamali_kamali_tomb/img361.jpg
+data/monuments/test/jamali_kamali_tomb/img362.jpg
+data/monuments/test/jamali_kamali_tomb/img363.jpg
+data/monuments/test/jamali_kamali_tomb/img364.jpg
+data/monuments/test/jamali_kamali_tomb/img365.jpg
+data/monuments/test/jamali_kamali_tomb/img367.jpg
+data/monuments/test/jamali_kamali_tomb/img368.jpg
+data/monuments/test/jamali_kamali_tomb/img370.jpg
+data/monuments/test/jamali_kamali_tomb/img371.jpg
+data/monuments/test/jamali_kamali_tomb/img373.jpg
+data/monuments/test/jamali_kamali_tomb/img374.jpg
+data/monuments/test/jamali_kamali_tomb/img375.jpg
+data/monuments/test/jamali_kamali_tomb/img376.jpg
+data/monuments/test/jamali_kamali_tomb/img379.jpg
+data/monuments/test/jamali_kamali_tomb/img380.jpg
+data/monuments/test/jamali_kamali_tomb/img381.jpg
+data/monuments/test/jamali_kamali_tomb/img385.jpg
+data/monuments/test/jamali_kamali_tomb/img386.jpg
+data/monuments/test/jamali_kamali_tomb/img388.jpg
+data/monuments/test/jamali_kamali_tomb/img390.jpg
+data/monuments/test/jamali_kamali_tomb/img393.jpg
+data/monuments/test/jamali_kamali_tomb/img394.jpg
+data/monuments/test/jamali_kamali_tomb/img396.jpg
+data/monuments/test/jamali_kamali_tomb/img397.jpg
+data/monuments/test/jamali_kamali_tomb/img400.jpg
+data/monuments/test/lotus_temple/1.jfif
+data/monuments/test/lotus_temple/10.jfif
+data/monuments/test/lotus_temple/11.jfif
+data/monuments/test/lotus_temple/12.jfif
+data/monuments/test/lotus_temple/13.jfif
+data/monuments/test/lotus_temple/14.jfif
+data/monuments/test/lotus_temple/15.jfif
+data/monuments/test/lotus_temple/16.jfif
+data/monuments/test/lotus_temple/17.jfif
+data/monuments/test/lotus_temple/18.jfif
+data/monuments/test/lotus_temple/19.jfif
+data/monuments/test/lotus_temple/2.jfif
+data/monuments/test/lotus_temple/20.jfif
+data/monuments/test/lotus_temple/21.jfif
+data/monuments/test/lotus_temple/22.jfif
+data/monuments/test/lotus_temple/23.jfif
+data/monuments/test/lotus_temple/24.jfif
+data/monuments/test/lotus_temple/25.jfif
+data/monuments/test/lotus_temple/26.jfif
+data/monuments/test/lotus_temple/27.jfif
+data/monuments/test/lotus_temple/28.jfif
+data/monuments/test/lotus_temple/29.jfif
+data/monuments/test/lotus_temple/3.jfif
+data/monuments/test/lotus_temple/30.jfif
+data/monuments/test/lotus_temple/4.jfif
+data/monuments/test/lotus_temple/5.jfif
+data/monuments/test/lotus_temple/6.jfif
+data/monuments/test/lotus_temple/7.jfif
+data/monuments/test/lotus_temple/8.jfif
+data/monuments/test/lotus_temple/9.jfif
+data/monuments/test/mysore_palace/1.jpg
+data/monuments/test/mysore_palace/10.jpg
+data/monuments/test/mysore_palace/11.jpg
+data/monuments/test/mysore_palace/12.jpg
+data/monuments/test/mysore_palace/13.jpg
+data/monuments/test/mysore_palace/14.jpg
+data/monuments/test/mysore_palace/15.jpg
+data/monuments/test/mysore_palace/16.jpg
+data/monuments/test/mysore_palace/17.jpg
+data/monuments/test/mysore_palace/18.jpg
+data/monuments/test/mysore_palace/19.jpg
+data/monuments/test/mysore_palace/2.jpg
+data/monuments/test/mysore_palace/20.jpg
+data/monuments/test/mysore_palace/21.jpg
+data/monuments/test/mysore_palace/22.jpg
+data/monuments/test/mysore_palace/23.jpg
+data/monuments/test/mysore_palace/24.jpg
+data/monuments/test/mysore_palace/25.jpg
+data/monuments/test/mysore_palace/26.jpg
+data/monuments/test/mysore_palace/27.jpg
+data/monuments/test/mysore_palace/28.jpg
+data/monuments/test/mysore_palace/29.jpg
+data/monuments/test/mysore_palace/3.jpg
+data/monuments/test/mysore_palace/30.jpg
+data/monuments/test/mysore_palace/4.jpg
+data/monuments/test/mysore_palace/5.jpg
+data/monuments/test/mysore_palace/7.jpg
+data/monuments/test/mysore_palace/8.jpg
+data/monuments/test/mysore_palace/9.jpg
+data/monuments/test/qutub_minar/img1.jpg
+data/monuments/test/qutub_minar/img10.jpg
+data/monuments/test/qutub_minar/img11.jpg
+data/monuments/test/qutub_minar/img12.jpg
+data/monuments/test/qutub_minar/img13.jpg
+data/monuments/test/qutub_minar/img14.jpg
+data/monuments/test/qutub_minar/img15.jpg
+data/monuments/test/qutub_minar/img16.jpg
+data/monuments/test/qutub_minar/img18.jpg
+data/monuments/test/qutub_minar/img19.jpg
+data/monuments/test/qutub_minar/img2.jpg
+data/monuments/test/qutub_minar/img20.jpg
+data/monuments/test/qutub_minar/img21.jpg
+data/monuments/test/qutub_minar/img22.jpg
+data/monuments/test/qutub_minar/img23.jpg
+data/monuments/test/qutub_minar/img24.jpg
+data/monuments/test/qutub_minar/img25.jpg
+data/monuments/test/qutub_minar/img26.jpg
+data/monuments/test/qutub_minar/img27.jpg
+data/monuments/test/qutub_minar/img28.jpg
+data/monuments/test/qutub_minar/img29.jpg
+data/monuments/test/qutub_minar/img3.jpg
+data/monuments/test/qutub_minar/img30.jpg
+data/monuments/test/qutub_minar/img31.jpg
+data/monuments/test/qutub_minar/img32.jpg
+data/monuments/test/qutub_minar/img33.jpg
+data/monuments/test/qutub_minar/img34.jpg
+data/monuments/test/qutub_minar/img35.jpg
+data/monuments/test/qutub_minar/img36.jpg
+data/monuments/test/qutub_minar/img37.jpeg
+data/monuments/test/qutub_minar/img38.jpg
+data/monuments/test/qutub_minar/img39.jpg
+data/monuments/test/qutub_minar/img4.jpg
+data/monuments/test/qutub_minar/img41.jpg
+data/monuments/test/qutub_minar/img42.jpg
+data/monuments/test/qutub_minar/img43.jpg
+data/monuments/test/qutub_minar/img44.jpg
+data/monuments/test/qutub_minar/img45.jpg
+data/monuments/test/qutub_minar/img46.jpg
+data/monuments/test/qutub_minar/img47.jpg
+data/monuments/test/qutub_minar/img48.jpg
+data/monuments/test/qutub_minar/img49.jpg
+data/monuments/test/qutub_minar/img5.jpg
+data/monuments/test/qutub_minar/img50.jpg
+data/monuments/test/qutub_minar/img51.jpg
+data/monuments/test/qutub_minar/img52.jpg
+data/monuments/test/qutub_minar/img53.jpg
+data/monuments/test/qutub_minar/img54.jpg
+data/monuments/test/qutub_minar/img55.jpg
+data/monuments/test/qutub_minar/img58.jpg
+data/monuments/test/qutub_minar/img59.jpg
+data/monuments/test/qutub_minar/img6.jpg
+data/monuments/test/qutub_minar/img60.jpg
+data/monuments/test/qutub_minar/img61.jpeg
+data/monuments/test/qutub_minar/img63.jpg
+data/monuments/test/qutub_minar/img64.jpg
+data/monuments/test/qutub_minar/img65.jpg
+data/monuments/test/qutub_minar/img66.jpg
+data/monuments/test/qutub_minar/img67.jpg
+data/monuments/test/qutub_minar/img68.jpg
+data/monuments/test/qutub_minar/img69.jpg
+data/monuments/test/qutub_minar/img7.jpg
+data/monuments/test/qutub_minar/img70.jpg
+data/monuments/test/qutub_minar/img71.jpg
+data/monuments/test/qutub_minar/img72.jpg
+data/monuments/test/qutub_minar/img73.jpg
+data/monuments/test/qutub_minar/img74.jpg
+data/monuments/test/qutub_minar/img75.png
+data/monuments/test/qutub_minar/img8.jpg
+data/monuments/test/qutub_minar/img9.jpg
+data/monuments/test/tajmahal/100.jpg
+data/monuments/test/tajmahal/81.jpg
+data/monuments/test/tajmahal/82.jpg
+data/monuments/test/tajmahal/83.jpg
+data/monuments/test/tajmahal/84.jpg
+data/monuments/test/tajmahal/85.jpg
+data/monuments/test/tajmahal/86.jpg
+data/monuments/test/tajmahal/87.jpg
+data/monuments/test/tajmahal/88.jpg
+data/monuments/test/tajmahal/89.jpg
+data/monuments/test/tajmahal/90.jpg
+data/monuments/test/tajmahal/91.jpg
+data/monuments/test/tajmahal/92.jpg
+data/monuments/test/tajmahal/93.jpg
+data/monuments/test/tajmahal/94.jpg
+data/monuments/test/tajmahal/95.jpg
+data/monuments/test/tajmahal/96.jpg
+data/monuments/test/tajmahal/97.jpg
+data/monuments/test/tajmahal/98.jpg
+data/monuments/test/tajmahal/99.jpg
+data/monuments/test/tajmahal/gettyimages-1020655144-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-102637459-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-104527313-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-1085851836-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-1087609794-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-1132593245-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-1143902672-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-1143915849-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-1155258851-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-1155675166-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-157771864-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-470592191-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-479761744-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-486118555-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-498507139-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-509658458-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-521476592-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-521553504-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-521558612-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-521558662-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-522047510-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-522335442-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-52857942-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-530570500-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-530627743-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-536506071-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-541388400-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-555765885-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-588506767-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-591407619-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-596263714-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-617920785-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-663897736-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-690396148-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-690397834-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-690397986-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-690670194-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-730193667-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-79730652-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-945205274-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-979712674-612x612.jpeg
+data/monuments/test/tajmahal/gettyimages-986255462-612x612.jpeg
+data/monuments/test/tanjavur temple/10.jpeg
+data/monuments/test/tanjavur temple/100.jpg
+data/monuments/test/tanjavur temple/11.jpeg
+data/monuments/test/tanjavur temple/12.jpeg
+data/monuments/test/tanjavur temple/13.jpeg
+data/monuments/test/tanjavur temple/14.jpeg
+data/monuments/test/tanjavur temple/15.jpeg
+data/monuments/test/tanjavur temple/16.jpeg
+data/monuments/test/tanjavur temple/17.jpeg
+data/monuments/test/tanjavur temple/18.jpeg
+data/monuments/test/tanjavur temple/19.jpeg
+data/monuments/test/tanjavur temple/2.jpeg
+data/monuments/test/tanjavur temple/20.jpeg
+data/monuments/test/tanjavur temple/21.jpeg
+data/monuments/test/tanjavur temple/22.jpeg
+data/monuments/test/tanjavur temple/23.jpeg
+data/monuments/test/tanjavur temple/24.jpeg
+data/monuments/test/tanjavur temple/25.jpeg
+data/monuments/test/tanjavur temple/3.jpeg
+data/monuments/test/tanjavur temple/4.jpeg
+data/monuments/test/tanjavur temple/5.jpeg
+data/monuments/test/tanjavur temple/6.jpeg
+data/monuments/test/tanjavur temple/7.jpeg
+data/monuments/test/tanjavur temple/8.jpeg
+data/monuments/test/tanjavur temple/81.jpg
+data/monuments/test/tanjavur temple/82.jpg
+data/monuments/test/tanjavur temple/83.jpg
+data/monuments/test/tanjavur temple/84.jpg
+data/monuments/test/tanjavur temple/85.jpg
+data/monuments/test/tanjavur temple/86.jpg
+data/monuments/test/tanjavur temple/87.jpg
+data/monuments/test/tanjavur temple/88.jpg
+data/monuments/test/tanjavur temple/89.jpg
+data/monuments/test/tanjavur temple/9.jpeg
+data/monuments/test/tanjavur temple/90.jpg
+data/monuments/test/tanjavur temple/91.jpg
+data/monuments/test/tanjavur temple/92.jpg
+data/monuments/test/tanjavur temple/93.jpg
+data/monuments/test/tanjavur temple/94.jpg
+data/monuments/test/tanjavur temple/95.jpg
+data/monuments/test/tanjavur temple/96.jpg
+data/monuments/test/tanjavur temple/97.jpg
+data/monuments/test/tanjavur temple/98.jpg
+data/monuments/test/tanjavur temple/99.jpg
+data/monuments/test/tanjavur temple/Unknown.jpeg
+data/monuments/test/victoria memorial/171.jpg
+data/monuments/test/victoria memorial/172.jpg
+data/monuments/test/victoria memorial/173.jpg
+data/monuments/test/victoria memorial/174.jpg
+data/monuments/test/victoria memorial/175.jpg
+data/monuments/test/victoria memorial/176.jpg
+data/monuments/test/victoria memorial/177.jpg
+data/monuments/test/victoria memorial/178.jpg
+data/monuments/test/victoria memorial/179.jpg
+data/monuments/test/victoria memorial/180.jpg
+data/monuments/test/victoria memorial/181.jpg
+data/monuments/test/victoria memorial/182.jpg
+data/monuments/test/victoria memorial/183.jpg
+data/monuments/test/victoria memorial/184.jpg
+data/monuments/test/victoria memorial/185.jpg
+data/monuments/test/victoria memorial/186.jpg
+data/monuments/test/victoria memorial/187.jpg
+data/monuments/test/victoria memorial/188.jpg
+data/monuments/test/victoria memorial/189.jpg
+data/monuments/test/victoria memorial/190.jpg
+data/monuments/test/victoria memorial/191.jpg
+data/monuments/test/victoria memorial/192.jpg
+data/monuments/test/victoria memorial/193.jpg
+data/monuments/test/victoria memorial/194.jpg
+data/monuments/test/victoria memorial/195.jpg
+data/monuments/test/victoria memorial/196.jpg
+data/monuments/test/victoria memorial/197.jpg
+data/monuments/test/victoria memorial/198.jpg
+data/monuments/test/victoria memorial/199.jpg
+data/monuments/test/victoria memorial/200.jpg

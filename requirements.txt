@@ -1,0 +1,15 @@
+torch>=2.4
+torchvision
+diffusers>=0.30
+transformers>=4.44
+peft>=0.12
+accelerate
+safetensors
+opencv-python-headless
+pytorch-msssim
+scikit-learn
+pandas
+matplotlib
+tqdm
+ipykernel
+ipywidgets
